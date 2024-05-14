@@ -3,7 +3,6 @@ body {
 }
 
 .navbar {
-    
     background-color: #657A55;
     color: white;
 }
@@ -43,4 +42,9 @@ FFF5DB
 
 #schedule {
     background-color: white;
+}
+
+.series-website-url {
+    display: block;
+    text-align: center;
 }
